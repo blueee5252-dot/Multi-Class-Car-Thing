@@ -1,0 +1,5 @@
+When the debugger was on line 17 and the num was 1, pressing f10 made a yellow highlight to skip Line 18 and jump to the end of the loop.
+
+When I pressed F10 at the end of the if statement, the yellow highlight jumped back up to the for loop line (line 16)
+
+Once num became an even number, the yellow highlight went to the math line. I saw the Variables pane and saw sum was 0. After I pressed F10 one more time, the sum changed to 2
